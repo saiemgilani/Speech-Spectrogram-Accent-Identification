@@ -1,4 +1,4 @@
-# DAT264x: Identifying Accents in Spectrograms of Speech 
+# Identifying Accents in Spectrograms of Speech 
 https://datasciencecapstone.org/competitions/16/identifying-accents-speech/
 ### About
 Your goal is to predict the accent of the speaker from spectrograms of speech samples. A spectrogram is a visual representation of the various frequencies of sound as they vary with time. These spectrograms were generated from audio samples in the Mozilla Common Voice dataset. Each speech clip was sampled at 22,050 Hz, and contains an accent from one of the following three countries: Canada, India, and England. For more information on spectrograms, see the home page.
